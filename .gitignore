@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+.idea/discord.xml
+.idea/vcs.xml
+.idea/deploymentTargetDropDown.xml
+.idea/kotlinc.xml
