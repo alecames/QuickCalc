@@ -8,15 +8,13 @@ I based it on the stock Pixel calculator, and styled it to match my Material You
 
 ## Features
 
-- Horiztonal scrollable display
+- Horizontally scrollable display
 - Backspace button
 - Stock appearance
 
 ## Screenshots
 
 ![main interface](readme/Screenshot_20231111_123128.png)
-![scrolled left with long expression](readme/image.png)
-![scrolled right with long expression](readme/image-1.png)
 
 ## Installation
 
